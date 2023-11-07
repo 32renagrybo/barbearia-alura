@@ -8,6 +8,25 @@ tag<mark>Espaço Diferenciado</mark>
 tag<mark>Localização</mark>
 tag<mark>Profissionais Qualificados</mark>
 
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Produtos - Barbearia Alura</title>
+        <link rel="stylesheet" href="produtos.css">
+    </head>
+    <body>
+        <header>
+            <h1><img src="logo.png"></h1>
+
+            <ul>
+                <li>Home</li>
+                <li>Produtos</li>
+                <li>Contato</li>
+            </ul>
+        </header>
+    </body>
+</html>
 
 
 
