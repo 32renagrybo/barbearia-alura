@@ -2,11 +2,11 @@
 <p>Nossa MIssão é: <strong>PROPORCIONAR AUTO-ESTIMA E QUALIDADE DE VIDA AOS CLIENTES</strong></p>
 <p> Oferecemos profissionais experientes e antenados ás mudanças do mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo e satisfação dos nossos clientes.</p>
 
-tag<h1>Benefícios</h1>
+<p>tag<h1>Benefícios</h1>
 tag<mark>Atendimento aos Clientes</mark>
 tag<mark>Espaço Diferenciado</mark>
 tag<mark>Localização</mark>
-tag<mark>Profissionais Qualificados</mark>
+tag<mark>Profissionais Qualificados</mark></p>
 
 
     
